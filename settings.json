@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NewPvP.aternos.me",
+    "ip": "corgidor.aternos.host",
     "port": 21525,
-    "version": ""
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
